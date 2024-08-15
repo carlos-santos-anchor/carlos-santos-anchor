@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI, TCA, Structured Concurrency and everything Anchorage Digital related
 - 💞️ I’m looking to collaborate in a lot of Anchorage Digital projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Circa 2016 I have lost a ticket for a final national cup match (the real footbal) so I spent the game seeing the game in a food truck nearby stadium while my wife was inside
+- ⚡ Fun fact: Circa 2016 I have lost a ticket for a final national cup match (the real footbal) so I spent the game time seeing it in a food truck nearby stadium while my wife was inside
 
 <!---
 carlos-santos-anchor/carlos-santos-anchor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
